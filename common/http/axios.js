@@ -21,7 +21,7 @@ export default {
 		const that=this
 	    return new Promise((cback, reject) => {
 	    	uni.request({
-	    		url: cfg.Api.url + url,
+	    		url: cfg.Api_url + url,
 	    		data: param,
 	    		method:method,
 	    		header: {
