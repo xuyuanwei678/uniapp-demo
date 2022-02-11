@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title">{{title}}</text></view><com-a vue-id="8dd740cc-1" bind:__l="__l"></com-a><com-b vue-id="8dd740cc-2" bind:__l="__l"></com-b><navigator url="/pages/index/B">跳转</navigator>{{''+process.env.NODE_ENV+"\n\t地址："+this.$mConfig+''}}</view>

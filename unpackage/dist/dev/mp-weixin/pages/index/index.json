@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "com-a": "/components/new_file",
+    "com-b": "/pages/index/B"
+  }
+}

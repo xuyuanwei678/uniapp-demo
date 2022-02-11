@@ -1,0 +1,1 @@
+<view><button data-event-opts="{{[['tap',[['find',['$event']]]]]}}" bindtap="__e">发送</button></view>
